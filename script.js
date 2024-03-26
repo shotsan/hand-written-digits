@@ -1,28 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 const numCanvasesInput = document.getElementById('num-canvases');
 const createCanvasesButton = document.getElementById('create-canvases');
 const canvasContainer = document.getElementById('canvas-container');
